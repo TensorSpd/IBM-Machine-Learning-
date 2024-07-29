@@ -16,7 +16,7 @@ Utilized linear regression algorithms to develop a model that predicts the impac
 
 Leveraged classifier models to predict conflicting classifications of human genetic variants in the ClinVar database, a public resource for annotations of human genetic variants.
 
-## Unsupervised Learning :octocat:
+## Unsupervised Learning 
 
 Applied clustering techniques to New York Stock Exchange historical metrics data to identify the optimal algorithm for predicting whether a company will report a net profit or net loss.
 
